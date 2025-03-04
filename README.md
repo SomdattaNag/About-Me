@@ -7,6 +7,7 @@ My Contributions:
    My project: https://github.com/ianshulx/Django-Projects-for-beginners/tree/main/django%20Quiz%20Form/myproject
 2. Python Voice generator: Added text-to-speech functionality to generate voice from python code to an open source collection of Python projects as a solution for Issue #2511.
    My solution: https://github.com/geekcomputers/Python/blob/master/Python%20Voice%20Generator.py
+
 Signification Projects:
 1. House Price Prediction System
   Developed a machine learning model to predict house prices with an R² score of 0.8553.

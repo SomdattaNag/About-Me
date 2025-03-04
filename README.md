@@ -10,10 +10,12 @@ My Contributions:
 
 Signification Projects:
 1. House Price Prediction System
+
   Developed a machine learning model to predict house prices with an R² score of 0.8553.
   Tools & Technologies used: Python, Scikit-learn, Matplotlib, Joblib, Pandas.
   Repo: https://github.com/SomdattaNag/HousePricePredictionSystem
-2. Asteroids Shooter Game
+3. Asteroids Shooter Game
+
   Developed a 2D Space Shooter game where players navigate a spacecraft to survive in space while
   destroying incoming asteroids.
   Tools & Technologies used: Python, Pygame.

@@ -1,4 +1,4 @@
-# About-Me
+# SomdattaNag
 Hi, I am Somdatta Nag, a 20 year old Computer Science Student from Siliguri, West Bengal.
 My interests include programming and problem solving.
 
